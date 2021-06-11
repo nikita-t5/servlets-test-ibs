@@ -1,0 +1,9 @@
+# Project exclude paths
+/out/
+/target/
+/shelf/
+/workspace.xml
+.idea/
+*.iml
+dependency-reduced-pom.xml
+*.json
